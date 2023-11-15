@@ -7,6 +7,9 @@ Voici comment Zupply simplifie votre projet :
   * 		Réservez : Sélectionnez ce dont vous avez besoin et réservez directement sur notre plateforme.
   * 		Récupérez : Prenez possession de l'équipement ou des matériaux, soit en les récupérant sur place, soit en optant pour une livraison par le vendeur.
 
+![Équipement]({{"/assets/img/scie.jpg" | relative_url}})
+
+
 Avec Zupply, vous pouvez :
   * Économiser de l'argent en n'achetant pas des outils coûteux pour un usage unique.
   * Acheter des matériaux de construction en surplus à moindre coût tout en contribuant à une consommation responsable.
